@@ -1,0 +1,10 @@
+
+mencari kpk di python menggunakan array = https://kotakode.com/pertanyaan/2421
+
+mencari word di text python = https://stackoverflow-com.translate.goog/questions/63843248/how-to-search-for-word-in-text-file-and-print-the-entire-line-with-python?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc
+
+cara cek kata sandi dengan python = https://www-geeksforgeeks-org.translate.goog/python-program-check-validity-password/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc
+
+sorting in python = https://www.w3schools.com/python/ref_list_sort.asp
+
+cek harus bilangan ganjil python = https://www.petanikode.com/python-ganjil-genap/
